@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌟 I'm Ulik, Ukrainian Developer who's in search of the first Web dev job
+- 🌟 I'm Ulik, Ukrainian Developer who's in search of the first Web dev job 🇺🇦
 - 🌱 Currently, I'm learning JavaScript (almost finished) and getting ready for the React Course 🔥
 - 👯 Really looking to collaborate on some basic JS projects
 - 💬 Feel free to ask me about my experience
