@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently, I'm learning JavaScript (almost finished) and getting ready for the React Course 🔥
-- 👯 I’m looking to collaborate on some basic JS projects
+- 👯 Really looking to collaborate on some basic JS projects
 - 💬 Feel free to ask me about my experience
 - 📫 Please, use email (ulik1shtel@gmail.com) as the main way to reach me out. I'm always responding supafast! 
 - ⚡ Fun fact: I am a big fan of running, cosmos staff & tech ☺️
