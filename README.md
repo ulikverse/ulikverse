@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the React Course 🔥
 - 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview
 - ⚡ Fun fact: I am a big fan of running, astro staff & tech ☺️
-- 🔜 **Coming soon**: my personal Website in is Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
+- 🔜 **Coming soon**: my personal Website is in Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
 
 </>
 
