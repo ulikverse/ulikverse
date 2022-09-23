@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://user-images.githubusercontent.com/53697952/191912593-27ea9e49-4d38-457f-9bf0-5d2b29502755.png)
+
 - 🌟 I'm Ulik, Ukrainian Developer who's in search of the first Web dev job 🇺🇦
 - 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the React Course 🔥
 - 👯 Really looking to **collaborate** on some basic JS projects
