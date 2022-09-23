@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Jonas Schmedtmann JavaScript Course
+- 🌱 I’m currently learning JavaScript (almost finished)
+- 👯 I’m looking to collaborate on some basic JS projects
+- 💬 Feel free to ask me about my experience
+- 📫 How to reach me: please, use email as the main way to reach me out. I'm always responding supafast!
+- ⚡ Fun fact: I am a big fan of running, cosmos staff & tech ☺️
