@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=uuuuulik&theme=tokyonight&show_icons=true&count_private=true) 
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=uuuuulik)
  -->
+
+[![Ulik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uuuuulik&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
