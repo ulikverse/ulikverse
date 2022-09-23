@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 </>
 
-![Github stats](https://github-readme-stats.vercel.app/api?uuuuulik&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=uuuuulik&theme=highcontrast&show_icons=true&count_private=true)
