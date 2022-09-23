@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🌟 I'm Ulik, Ukrainian Developer who's in search of the first Web dev job 🇺🇦
-- 🌱 Currently, I'm learning JavaScript (almost finished) and getting ready for the React Course 🔥
-- 👯 Really looking to collaborate on some basic JS projects
-- 💬 Feel free to ask me about my experience
-- 📫 Please, use email (ulik1shtel@gmail.com) as the main way to reach me out. I'm always responding supafast! 
+- 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the React Course 🔥
+- 👯 Really looking to **collaborate** on some basic JS projects
+- 📫 Please, use **email** (ulik1shtel@gmail.com) as the main way to reach me out. I'm always responding supafast! 
+- 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview
 - ⚡ Fun fact: I am a big fan of running, cosmos staff & tech ☺️
 - 🔜 Coming soon: my personal Website in is Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
+
+</>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
