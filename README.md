@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🌟 I'm Ulik, **Ukrainian Developer**, who's in search of the first Web Dev job 🇺🇦
 - 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the React Course 🔥
 - 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview
-- ⚡ Fun fact: I am a big fan of running, astro staff & tech ☺️
-- 🔜 **Coming soon**: my personal Website is in Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
+- ⚡ I am a big fan of running, astro staff & tech ☺️
+- 🔜 My personal Website is in Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
 
 </>
 
