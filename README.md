@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview
 - ⚡ I am a big fan of running, astro staff & tech ☺️
 - 🔜 My personal Website is in Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
+- You can download my CV is here -> [link](https://drive.google.com/file/d/1nPID6terC-Xri4euM79Yz4tdoFYBoHlB/view?usp=sharing)
 
 </>
 
