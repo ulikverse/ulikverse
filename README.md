@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 - 🌟 I'm Ulik, **Ukrainian Developer**, who's in search of the first Web Dev job 🇺🇦
-- 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the React Course 🔥
-- 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview
+- 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the Vue.js Course 🔥
+- 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview or simply here on GitHub
 - ⚡ I am a big fan of running, astro staff & tech ☺️
-- 🔜 My personal Website is in Development ATM. It'll be ready untill Nov 2022. Stay tuned ... 📻
+- 🔜 My personal Website is in Development ATM. But you can check it already by this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section)
 - 📄 You can download my CV is here -> [link](https://drive.google.com/file/d/1nPID6terC-Xri4euM79Yz4tdoFYBoHlB/view?usp=sharing)
 
 </>
