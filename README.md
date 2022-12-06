@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=uuuuulik)
  -->
 
-[![Ulik's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?uuuuulik)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ulik's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?uuuuulik=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
