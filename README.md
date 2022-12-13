@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌟 I'm Ulik, **Ukrainian Developer**, who's in search of the first Web Dev job 🇺🇦
-- 🌱 Currently, I'm learning **JavaScript** (almost finished) and getting ready for the Vue.js Course 🔥
+- 🌱 Currently, I'm finished learning **JavaScript** and getting my hands ready for the React.js Course 🔥
 - 👨‍💻 All of **my projects** are available at https://app.netlify.com/teams/uuuuulik/overview or simply here on GitHub
 - ⚡ I am a big fan of running, astro staff & tech ☺️
 - 🔜 You can check my personal Website this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
