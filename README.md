@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌟 I'm Ulik, **Ukrainian Developer**, who's in search of the first Web Dev job 🇺🇦
 - 🌱 Currently, I'm finished learning **JavaScript** and getting my hands ready for the React.js Course 🔥
 - ⚡ I am a big fan of running, astro staff & tech ☺️
-- 🔜 You can check my personal Website this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
+- 🔜 You can check my personal Website by this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
 - 📄 You can download my CV is here -> [link](https://drive.google.com/file/d/1nPID6terC-Xri4euM79Yz4tdoFYBoHlB/view?usp=sharing)
 
 </>
