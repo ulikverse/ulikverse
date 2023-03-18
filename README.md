@@ -3,7 +3,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/53697952/226103431-621090c1-0bd5-417b-b866-4a92b8a915d1.png) -->
 ![007](https://user-images.githubusercontent.com/53697952/226103528-0f52a344-19d9-4a6c-8056-7eb69eb83be4.gif)
 
-<!-- *** -->
+***
 
 <!--
 **uuuuulik/uuuuulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ I am a big fan of running, astro staff & tech ☺️
 - 💻 I'm also developing my personal Web App **Miri**, check it out here > [Miri](https://app-miri.netlify.app/) 🔗
 - 🔜 You can check my personal Website by this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
-- 📄 CV is here -> [link](https://drive.google.com/file/d/1hvwSPKUTBBLVXqUew-sN4YQ2YIeJtkIH/view?usp=sharing)
+- 📄 CV is here -> [link](https://drive.google.com/file/d/1hvwSPKUTBBLVXqUew-sN4YQ2YIeJtkIH/view?usp=sharing) 🔗
 
 </>
 
