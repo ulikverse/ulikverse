@@ -3,7 +3,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/53697952/226103431-621090c1-0bd5-417b-b866-4a92b8a915d1.png) -->
 ![007](https://user-images.githubusercontent.com/53697952/226103528-0f52a344-19d9-4a6c-8056-7eb69eb83be4.gif)
 
-***
+<!-- *** -->
 
 <!--
 **uuuuulik/uuuuulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 </>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=uuuuulik&bg_color=141322&color=ff4500&show_icons=true&count_private=true) 
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=uuuuulik&bg_color=141322&color=ff4500&show_icons=true&count_private=true)  -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=uuuuulik)
  -->
 
