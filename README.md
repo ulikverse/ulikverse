@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://www.youtube.com/watch?v=akDIJa0AP5c)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/watch?v=DHjqpvDnNGE)
-[![React]()](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/watch?v=hwP7WQkmECE)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uuuuulik)
