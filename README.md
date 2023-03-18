@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ I am a big fan of running, astro staff & tech ☺️
 - 💻 I'm also developing my personal Web App **Miri**, check it out here > [Miri](https://app-miri.netlify.app/) 🔗
 - 🔜 You can check my personal Website by this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
-- 📄 CV is here -> [link](https://drive.google.com/file/d/1nPID6terC-Xri4euM79Yz4tdoFYBoHlB/view?usp=sharing)
+- 📄 CV is here -> [link](https://drive.google.com/file/d/1JrSuSXVwyrK9UMVv7egK_YwedfoYiaDC/view?usp=sharing)
 
 </>
 
