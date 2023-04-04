@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Currently I'm deep dive into React.js 🔥
 - ⚡ I am a big fan of running, astro staff & tech ☺️
 - 💻 I'm also developing my personal Web App **Miri**, check it out here > [Miri](https://app-miri.netlify.app/) 🔗
-- 🔜 You can check my personal Website by this link > [Yulii Shtel Dev](https://yulii-shtel-dev.netlify.app/#contact-section) 🔗
+- 🔜 You can check my personal Website by this link > [Yulii Shtel Dev](https://portfolio-website-five-blush.vercel.app/#section-contact) 🔗
 - 📄 CV is here -> [link](https://drive.google.com/file/d/1hvwSPKUTBBLVXqUew-sN4YQ2YIeJtkIH/view?usp=sharing) 🔗
 
 </>
