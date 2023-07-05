@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=uuuuulik)
  -->
 
-[![Ulik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uuuuulik&bg_color=141322&color=ff4500&line=ff4500&point=992900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ulik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uuuuulik&bg_color=141322&color=ff4500&line=ff4500&point=992900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
