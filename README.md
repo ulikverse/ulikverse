@@ -56,16 +56,17 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://www.youtube.com/watch?v=KMxo3T_MTvY)
 
 </>
-
+<!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ulikverse&bg_color=141322&color=ff4500&show_icons=true&count_private=true)
+-->
 
 <!-- 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ulikverse)
- -->
+-->
  
 <!-- 
 [![Ulik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ulikverse&bg_color=141322&color=ff4500&line=ff4500&point=992900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
 
-[![ulikverse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ulikverse&bg_color=141322&color=ff4500&line=ff4500&point=992900&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ulikverse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ulikverse&bg_color=141322&color=ff4500&line=ff4500&point=992900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
