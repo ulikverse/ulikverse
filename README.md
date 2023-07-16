@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![ulikverse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ulikversebg_color=141322&color=ff4500&line=ff4500&point=992900&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ulikverse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ulikverse&bg_color=141322&color=ff4500&line=ff4500&point=992900&)](https://github.com/ashutosh00710/github-readme-activity-graph)
